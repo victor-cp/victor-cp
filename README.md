@@ -3,7 +3,7 @@
 Hi, I'm Victor, I am passionate about programming, machine learning, continuous learning, and many things
 Hope you find useful my public repos.
 
-##Tech skills
+## Tech skills
 Con habilidades en React, Node, frameworks ....
 
 Actualmente estoy cursando en un bootcamp, lo cual me ayuda a potenciar mis conocimientos en este campo.
