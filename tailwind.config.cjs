@@ -5,16 +5,17 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        color1: "#056564",
+        color1: "#112240",
         color2: "#1fa2aa",
         color3: "7ad4dd",
         color4: "4fba73",
         color5: "0a572f",
         color6: "062715",
-        primary: "#00040f",
-        secondary: "#00f6ff",
-        dimWhite: "rgba(255, 255, 255, 0.7)",
-        dimBlue: "rgba(9, 151, 124, 0.1)",
+        primary: "#112240",
+        secondary: "#1fa2aa",
+        dimWhite: "#dadada",
+        // dimBlue: "rgba(9, 151, 124, 0.1)",
+        dimBlue: "rgba(31, 162, 170, 0.3)",
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
@@ -31,3 +32,10 @@ module.exports = {
   },
   plugins: [],
 };
+
+// color1: "#056564",0a572f
+// dimWhite: "#464646",
+// primary: "#00040f",
+// secondary: "#00f6ff",
+// dimWhite: "rgba(255, 255, 255, 0.7)",
+// dimBlue: "rgba(9, 151, 124, 0.1)",

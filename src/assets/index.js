@@ -24,6 +24,19 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 
+import profile from "./profile.jpg";
+import item1 from "./item1.svg";
+import project1 from "./project1.png";
+import project2 from "./project2.png";
+import project3 from "./project3.png";
+import github from "./github.svg";
+import website from "./website.svg";
+import file from "./file.svg";
+import programmingLanguages from "./programmingLanguages.svg";
+import librariesFrameworks from "./librariesFrameworks.svg";
+import toolsPlatforms from "./toolsPlatforms.svg";
+import design from "./design.svg";
+
 export {
   airbnb,
   bill,
@@ -50,4 +63,16 @@ export {
   people01,
   people02,
   people03,
+  profile,
+  item1,
+  project1,
+  github,
+  website,
+  project2,
+  project3,
+  file,
+  programmingLanguages,
+  librariesFrameworks,
+  toolsPlatforms,
+  design,
 };
