@@ -26,6 +26,7 @@ import people03 from "./people03.png";
 
 import profile from "./profile.jpg";
 import item1 from "./item1.svg";
+import project0 from "./project0.png";
 import project1 from "./project1.png";
 import project2 from "./project2.png";
 import project3 from "./project3.png";
@@ -65,6 +66,7 @@ export {
   people03,
   profile,
   item1,
+  project0,
   project1,
   github,
   website,

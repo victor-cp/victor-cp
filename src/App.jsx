@@ -1,5 +1,6 @@
 import styles from "./style";
 import {
+  Project0,
   Project1,
   Project2,
   Project3,
@@ -32,7 +33,7 @@ const App = () => (
         {/* <Stats /> */}
         <Business />
         <Project1 />
-        <Project2 />
+        <Project0 />
         <Project3 />
         <Testimonials />
         {/* <Clients /> */}

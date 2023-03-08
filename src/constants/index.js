@@ -73,11 +73,20 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "A single page Todo App. This was implemented with react, redux, router techs and bootstrap's library.",
     name: "A simple Todo App",
     title: "Founder & Leader",
     img: people02,
     link: "https://github.com/victor-cp/a-simple-todo-app",
+  },
+  {
+    id: "feedback-3",
+    content:
+      "A single page Todo App. This was implemented with react, redux, router techs and bootstrap's library.",
+    name: "CRUD Firebase",
+    title: "Founder & Leader",
+    img: people02,
+    link: "https://github.com/victor-cp/firebase-schedule",
   },
 ];
 

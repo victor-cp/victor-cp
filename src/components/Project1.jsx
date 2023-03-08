@@ -1,4 +1,4 @@
-import { apple, bill, google, project1, github, website } from "../assets";
+import { apple, bill, google, project0, github, website } from "../assets";
 import styles, { layout } from "../style";
 
 const Billing = () => (
@@ -9,45 +9,49 @@ const Billing = () => (
     </h1>
     <section className={layout.sectionReverse}>
       <div className={layout.sectionImgReverse}>
-        <img src={project1} className="w-[100%] h-[auto] relative z-[5]" />
+        <img src={project0} className="w-[100%] h-[auto] relative z-[5]" />
       </div>
 
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-          Videogames website <br className="sm:block hidden" /> with testing.
+          GO-JOB <br className="sm:block hidden" />
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-3`}>
-          A full stack CRUD project is carried out using the PERN tech, video
-          game themed, consuming the RAWG api. Testing all components frontend,
-          backend and DB (65 tests).
+          Una página web escalable (Filtros en el back) capaz de realizar
+          publicaciones de servicios, postular a servicios como profesional,
+          realizar transacciones (Stripe), guardar imágenes (Cloudinary),
+          loggearte (Auth0). Entre los roles puedes ser usuario comun,
+          profesional o admin. Mostrando componentes distintos para cada uno.
+          Proyecto final SoyHenry. V.Colquichagua - L.Moyano - F.Toledo - M.Baez
+          - J.Flores
         </p>
 
         <div
           className={`${styles.paragraph}  flex flex-row flex-wrap sm:mt-3 mt-6`}
         >
-          <h2>React - Express - CSS-Modules - Postgres - Node-JS</h2>
+          <h2>PERN Tech - Cloudinary - Stripe - Tailwind - Git</h2>
         </div>
         <div
           className={`${styles.paragraph}  flex flex-row flex-wrap sm:mt-1 mt-6`}
         >
-          <h2>Jest - Mocha-chai - RAWG API</h2>
+          <h2>Auth0 - jwt - Formik/Yup - Redux - Sequelize</h2>
         </div>
         <div className="sm:mt-2 flex flex-row align-items-rigth ">
           <a
-            href="https://github.com/victor-cp/Videogames-Website-PERN-CRUD-Testing"
+            href="https://github.com/victor-cp/goJob2"
             target="_blank"
             className="mr-5 github"
             // className={`${styles.github} mr-5`}
           >
             <img src={github} className="w-10 relative z-[5]" />
           </a>
-          <a
+          {/* <a
             href="https://videogames-website-pern-crud-testing-ot7p.vercel.app/"
             target="_blank"
             className="github"
           >
             <img src={website} className="w-10 relative z-[5]" />
-          </a>
+          </a> */}
         </div>
       </div>
     </section>

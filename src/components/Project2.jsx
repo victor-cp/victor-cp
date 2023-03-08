@@ -6,27 +6,27 @@ const Project2 = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        DJANGO Rest Framework <br className="sm:block hidden" />
+        CRUD Firebase <br className="sm:block hidden" />
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        A crud implemented with react (front), django rest framework (back),
-        postgres (db).
+        A single page Todo App. This was implemented with react, redux, router
+        techs and bootstrap's library.
       </p>
 
       <div
         className={`${styles.paragraph}  flex flex-row flex-wrap sm:mt-3 mt-6`}
       >
-        <h2>React - Postgres - django RF</h2>
+        <h2>Express - Storage - EJS - Node-JS - Bootstrap</h2>
       </div>
       <div
         className={`${styles.paragraph}  flex flex-row flex-wrap sm:mt-1 mt-6`}
       >
-        <h2>Bootwswatch</h2>
+        <h2>Firebase-admin</h2>
       </div>
 
       <div className="sm:mt-2 flex flex-row align-items-rigth ">
         <a
-          href="https://github.com/victor-cp/djangorf-react-postgres"
+          href="https://github.com/victor-cp/firebase-schedule"
           target="_blank"
           className="mr-5 github"
         >
