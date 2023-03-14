@@ -1,8 +1,6 @@
 # Hi I'm Victor Colquichagua.
 
-I am a ***Fullstack*** programmer who finds himself always learning new technologies for creating applications.
-
-A passionate in the world of web development with experience as an mechatronic engineer. Builder of experiences and quality of life, and fun things.
+A passionate in the world of web development with experience as an mechatronic engineer. Builder of experiences and quality of life, and fun things. 
 
 ## My Skills
 
