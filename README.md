@@ -1,4 +1,4 @@
-# 👋 Hi I'm Victor Colquichagua.
+# Hi I'm Victor Colquichagua.
 
 I am a ***Fullstack*** programmer who finds himself always learning new technologies for creating applications.
 
